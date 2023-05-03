@@ -8,6 +8,7 @@ send the order.
 This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,
 data binding, LiveData, and the Jetpack Navigation component.
 
+![Uploading Screenshot 2023-05-04 at 12.05.44 AM.png…]()![Uploading Screenshot 2023-05-04 at 12.05.51 AM.png…]()![Uploading Screenshot 2023-05-04 at 12.05.57 AM.png…]()![Uploading Screenshot 2023-05-04 at 12.06.02 AM.png…]()
 
 Pre-requisites
 --------------
